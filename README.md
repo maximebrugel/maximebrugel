@@ -2,9 +2,10 @@
 I'm Maxime Brugel, I'm a Backend Developer from France !
 
 🔨 I’m currently working at [Sequoiasoft](https://www.sequoiasoft.com/)
-📫 You can reach me at : maxime.brugel@gmail.com
 
 📚 Go | Java | Node.js
+
+📫 You can reach me at : maxime.brugel@gmail.com
 
 🌐 [My Linkedin profile](https://www.linkedin.com/in/maxime-brugel-4b4458108/)
 
