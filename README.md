@@ -1,9 +1,9 @@
 ### Hi 👋
-I'm Maxime Brugel, I'm a Backend Developer from France !
+I'm Maxime Brugel, I'm a Software Developer from France !
 
 🔨 I’m currently working at [Sequoiasoft](https://www.sequoiasoft.com/)
 
-📚 Go | Java | Node.js
+📚 Java | Solidity | Go | Node.js
 
 📫 You can reach me at : maxime.brugel@gmail.com
 
